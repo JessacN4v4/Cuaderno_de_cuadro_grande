@@ -1,7 +1,6 @@
-# Cuaderno_de_cuadro_grande
-mi proyecto de c++ para la clase de programación tc1033
+# Proyecto de c++ para la clase de programación tc1033
 
-## Descripción
+## Contexto
 Un programa basado en un registro diario de los navios de "Puerto Bonito", este programa simula un puerto muy turístico
 que tiene viajes redondos a una isla paradisiaca. En este puerto hay cierta cantidad de navios diferentes, dependiendo de
 la experiencia que el turista prefiera, eligira un navio para trasladarlo a la isla y de regreso, de igual forma el precio
